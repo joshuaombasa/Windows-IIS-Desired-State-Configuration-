@@ -19,5 +19,5 @@
 ### 1. Clone the Repository
 Clone this repository to your local machine using Git:
 ```bash
-git clone https://github.com/yourusername/InstallIIS.git
+git clone https://github.com/joshuaombasa/Windows-IIS-Desired-State-Configuration-/blob/main/InstallIIS.ps1
 cd InstallIIS
